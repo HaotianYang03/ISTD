@@ -43,7 +43,7 @@ $ wandb login
 $ python train.py
 ```
 
-## 3. Val
+## 4. Val
 
 ```plaintext
 $ python val.py
