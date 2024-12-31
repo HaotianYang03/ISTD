@@ -37,9 +37,15 @@ $ pip install wandb
 $ wandb login
 ```
 
-## 2. Train
+## 3. Train
 
 ```plaintext
 $ python train.py
+```
+
+## 3. Val
+
+```plaintext
+$ python val.py
 ```
 
